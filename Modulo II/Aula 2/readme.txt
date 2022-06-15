@@ -83,3 +83,10 @@ px, %, em, ...: são valores  exatos previamente definidos.
 flex-shrink
 
 É a propriedade que estabelece a capacidade  de redução ou compreensão  do tamanho de um item
+
+flex 
+Esta propriedade é uma atalho ou abreviação  de escrita para as propriedades grow, shrink e basis.
+
+
+Order: 
+Cria uma ordenação paralela para os itens atraves do CSS.
