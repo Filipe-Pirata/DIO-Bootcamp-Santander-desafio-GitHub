@@ -24,7 +24,7 @@ div img {
 .flex-container {
   display: flex;
   max-width: 992px;
-  margin: auto;
+  margin: 2rem auto;
   width: 100%;
   min-width: 320px;
   /* padding: 10px 15px; */
@@ -63,7 +63,7 @@ header .menu {
 
 /* Inicia estilos do body */
   .apresentacao {
-    height: 100vh;
+    /* height: 100vh; */
     align-items: center;
     justify-content: space-between;
   }
@@ -200,7 +200,7 @@ header .menu {
 
   #planos {
     flex-direction: column;
-    min-height: 100vh;
+    /* min-height: 100vh; */
     padding-top: 50px;
 
   }
@@ -296,7 +296,7 @@ header .menu {
 /* MOBILE  */
 
 
-@media(min-width: 992px) {
+@media(max-width: 992px) {
   .flex-container {
     flex-direction: column;
 
