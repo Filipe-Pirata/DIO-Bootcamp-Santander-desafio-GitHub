@@ -1,7 +1,7 @@
-# Desafio de projeto sobre Git/Github da DIO
+## Desafio de projeto sobre Git/Github da DIO
 
-Repositório criado para o desafio de projeto
+This repositore was created to show my evolution during the DIO Bootcamp.
+Here you will find somethings about JS, Java, Typescript, Angular Bootstrap and Spring Framework.
 
+Enjoy.
 
-## Links Uteis 
-[Sintaxe basica markdown](https://www.markdownguide.org/basic-syntax/)
